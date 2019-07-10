@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\ZhaoChenggang\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\ZhaoChenggang\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_unity_shader.1876855710.00" t="ExcludeRecursive" />
-    <e p="D:\ZhaoPrograms\unity\unity_shader" t="IncludeFlat">
-      <e p="Library" t="ExcludeRecursive" />
-      <e p="Temp" t="ExcludeRecursive" />
+    <e p="C:\Users\Mloong\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Mloong\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_unity_shader.907945085.00" t="ExcludeRecursive" />
+    <e p="D:\WorkProiect\unity_shader" t="IncludeFlat">
       <e p="unity_shader.sln" t="IncludeFlat" />
     </e>
   </component>

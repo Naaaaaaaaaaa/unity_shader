@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739dc2a5-991b-49a6-846a-0c774d60e86a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.unity_shader/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.unity_shader/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/MaterialVertex.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/MaterialVertex.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/ShaderVertex.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/ShaderVertex.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +23,78 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/shader/ShaderVertex.shader">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5-SimpleShader.shader">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="304">
+              <caret line="16" column="31" lean-forward="true" selection-end-line="62" />
               <folding>
-                <marker date="1548396807033" expanded="true" signature="29:1374" ph="{...}" />
-                <marker date="1548396807033" expanded="true" signature="43:616" ph="{...}" />
-                <marker date="1548396807033" expanded="true" signature="628:1352" ph="{...}" />
-                <marker date="1548396807033" expanded="true" signature="675:1349" ph="{...}" />
-                <marker date="1548396807033" expanded="true" signature="785:1182" ph="{...}" />
-                <marker date="1548396807033" expanded="true" signature="803:1168" ph="/* Diffuse(1, 1, 1, 1) ... */" />
-                <marker date="1548396807033" expanded="true" signature="1195:1326" ph="/* 所有灯光的总开关，如果要使用灯光设置，必须要打开这个开关 ... */" />
+                <marker date="1562723642345" expanded="true" signature="0:250" ph="/* Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)' ... */" />
+                <marker date="1562723642345" expanded="true" signature="290:1878" ph="{...}" />
+                <marker date="1562723642345" expanded="true" signature="306:373" ph="{...}" />
+                <marker date="1562723642345" expanded="true" signature="388:1876" ph="{...}" />
+                <marker date="1562723642345" expanded="true" signature="402:1870" ph="{...}" />
+                <marker date="1562723642345" expanded="true" signature="425:1855" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Chapter6_SpecularVertexLevel.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_surface.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1561617409184" expanded="true" signature="31:1652" ph="{...}" />
+                <marker date="1561617409184" expanded="true" signature="52:257" ph="{...}" />
+                <marker date="1561617409184" expanded="true" signature="276:1627" ph="{...}" />
+                <marker date="1561617409184" expanded="true" signature="351:1616" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_vertex1.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1561604447836" expanded="true" signature="29:2574" ph="{...}" />
+                <marker date="1561604447836" expanded="true" signature="43:863" ph="{...}" />
+                <marker date="1561604447836" expanded="true" signature="595:716" ph="/* Vector类型 ... */" />
+                <marker date="1561604447836" expanded="true" signature="875:2552" ph="{...}" />
+                <marker date="1561604447836" expanded="true" signature="922:2549" ph="{...}" />
+                <marker date="1561604447836" expanded="true" signature="923:1036" ph="/* 渲染管道，一个SubShader可以有多个渲染管道 ... */" />
+                <marker date="1561604447836" expanded="true" signature="1057:1661" ph="{...}" />
+                <marker date="1561604447836" expanded="true" signature="1093:1365" ph="/* 材质的漫反射，代表材质的固有颜色 ... */" />
+                <marker date="1561604447836" expanded="true" signature="1416:1465" ph="/* Diffuse  漫反射 ... */" />
+                <marker date="1561604447836" expanded="true" signature="1733:1788" ph="/* Lighting Off ... */" />
+                <marker date="1561604447836" expanded="true" signature="1846:2526" ph="/* 设置纹理贴图 ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_cg.shader">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <folding>
+                <marker date="1561623338702" expanded="true" signature="26:553" ph="{...}" />
+                <marker date="1561623338702" expanded="true" signature="47:521" ph="{...}" />
+                <marker date="1561623338702" expanded="true" signature="61:515" ph="{...}" />
+                <marker date="1561623338702" expanded="true" signature="84:500" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -39,12 +106,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/shader/ShaderVertex.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5-SimpleShader.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_cg.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_surface.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_vertex1.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Chapter6_SpecularVertexLevel.shader" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/shader/ShaderVertex.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/shader_vertex2.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/shader_surface.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/shader_cg.shader" />
+        <option value="D:/work/project/ReadExcel/Assets/scripts/ReadExcel.cs" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5_SimpleShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_HalfLambert.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_DiffusePixelLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5-SimpleShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_DiffuseVertexLevel.shader" />
+        <option value="$PROJECT_DIR$/Assets/shader/scene_6_4/Chapter6_SpecularVertexLevel.shader" />
       </list>
     </option>
   </component>
@@ -54,36 +135,33 @@
     </ignored-facets>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1960" />
-    <option name="y" value="232" />
-    <option name="width" value="1026" />
-    <option name="height" value="546" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="UnityExplorer" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,7 +176,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Mloong\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,11 +186,20 @@
       <option name="presentableId" value="Default" />
       <updated>1548395439392</updated>
       <workItem from="1548395449972" duration="2555000" />
+      <workItem from="1561600786998" duration="12838000" />
+      <workItem from="1561948918073" duration="1915000" />
+      <workItem from="1562633458080" duration="83000" />
+      <workItem from="1562633592371" duration="1452000" />
+      <workItem from="1562635057773" duration="10122000" />
+      <workItem from="1562723612620" duration="33000" />
+      <workItem from="1562723678598" duration="16000" />
+      <workItem from="1562723709887" duration="67000" />
+      <workItem from="1562723804947" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2555000" />
+    <option name="totallyTimeSpent" value="29318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -124,25 +211,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Captures" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -150,21 +226,32 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Logcat" order="13" />
+      <window_info anchor="bottom" id="Unit Tests" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="bottom" id="Unity" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Device File Explorer" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -176,19 +263,80 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/shader/ShaderVertex.shader">
+    <entry file="file://$PROJECT_DIR$/Assets/shader/ShaderVertex.shader" />
+    <entry file="file://D:/work/project/ReadExcel/Assets/scripts/ReadExcel.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/shader_vertex2.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/shader_surface.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/shader_cg.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/shader_vertex1.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5_SimpleShader.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Diffuse_vertex_Level_Mat.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_DiffusePixelLevel.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_HalfLambert.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Campter6_DiffuseVertexLevel.shader" />
+    <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_surface.shader">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state>
           <folding>
-            <marker date="1548396807033" expanded="true" signature="29:1374" ph="{...}" />
-            <marker date="1548396807033" expanded="true" signature="43:616" ph="{...}" />
-            <marker date="1548396807033" expanded="true" signature="628:1352" ph="{...}" />
-            <marker date="1548396807033" expanded="true" signature="675:1349" ph="{...}" />
-            <marker date="1548396807033" expanded="true" signature="785:1182" ph="{...}" />
-            <marker date="1548396807033" expanded="true" signature="803:1168" ph="/* Diffuse(1, 1, 1, 1) ... */" />
-            <marker date="1548396807033" expanded="true" signature="1195:1326" ph="/* 所有灯光的总开关，如果要使用灯光设置，必须要打开这个开关 ... */" />
+            <marker date="1561617409184" expanded="true" signature="31:1652" ph="{...}" />
+            <marker date="1561617409184" expanded="true" signature="52:257" ph="{...}" />
+            <marker date="1561617409184" expanded="true" signature="276:1627" ph="{...}" />
+            <marker date="1561617409184" expanded="true" signature="351:1616" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_vertex1.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1561604447836" expanded="true" signature="29:2574" ph="{...}" />
+            <marker date="1561604447836" expanded="true" signature="43:863" ph="{...}" />
+            <marker date="1561604447836" expanded="true" signature="595:716" ph="/* Vector类型 ... */" />
+            <marker date="1561604447836" expanded="true" signature="875:2552" ph="{...}" />
+            <marker date="1561604447836" expanded="true" signature="922:2549" ph="{...}" />
+            <marker date="1561604447836" expanded="true" signature="923:1036" ph="/* 渲染管道，一个SubShader可以有多个渲染管道 ... */" />
+            <marker date="1561604447836" expanded="true" signature="1057:1661" ph="{...}" />
+            <marker date="1561604447836" expanded="true" signature="1093:1365" ph="/* 材质的漫反射，代表材质的固有颜色 ... */" />
+            <marker date="1561604447836" expanded="true" signature="1416:1465" ph="/* Diffuse  漫反射 ... */" />
+            <marker date="1561604447836" expanded="true" signature="1733:1788" ph="/* Lighting Off ... */" />
+            <marker date="1561604447836" expanded="true" signature="1846:2526" ph="/* 设置纹理贴图 ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/shader/New Folder/shader_cg.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1561623338702" expanded="true" signature="26:553" ph="{...}" />
+            <marker date="1561623338702" expanded="true" signature="47:521" ph="{...}" />
+            <marker date="1561623338702" expanded="true" signature="61:515" ph="{...}" />
+            <marker date="1561623338702" expanded="true" signature="84:500" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_5_2/Campter5-SimpleShader.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="31" lean-forward="true" selection-end-line="62" />
+          <folding>
+            <marker date="1562723642345" expanded="true" signature="0:250" ph="/* Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)' ... */" />
+            <marker date="1562723642345" expanded="true" signature="290:1878" ph="{...}" />
+            <marker date="1562723642345" expanded="true" signature="306:373" ph="{...}" />
+            <marker date="1562723642345" expanded="true" signature="388:1876" ph="{...}" />
+            <marker date="1562723642345" expanded="true" signature="402:1870" ph="{...}" />
+            <marker date="1562723642345" expanded="true" signature="425:1855" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/shader/scene_6_4/Chapter6_SpecularVertexLevel.shader">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
         </state>
       </provider>
     </entry>
